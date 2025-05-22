@@ -2,7 +2,7 @@
 A graphical user interface (GUI) application for Huffman Coding implemented in Python. 
 This tool allows users to input text, generate Huffman encoding, visualize the encoding tree, and compress or decompress data using the Huffman algorithm.
 
-# Feature s#
+# Feature #
 - Encode input text using Huffman Coding
 - Decode compressed binary back to original text
 - Display Huffman tree (optional: graphical or textual)
